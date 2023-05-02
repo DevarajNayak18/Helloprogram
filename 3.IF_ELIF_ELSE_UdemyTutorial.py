@@ -10,7 +10,7 @@ if password=='dev123':
 else:
     print("incorrect password") #if password is wrong
 
-#IFEL
+#elif
 name='devking'
 age=200
 if name=='deva':
